@@ -7,7 +7,7 @@ dataset used : https://www.kaggle.com/datasets/redwankarimsony/heart-disease-dat
 # Heart Disease Prediction Analysis
 
 ## Overview
-This project, conducted as part of CIS 3920, focuses on identifying key variables correlating with heart disease using logistic regression. We analyzed the UCI Heart Disease Dataset, applying logistic regression, KNN, and Naive Bayes models in R to pinpoint crucial health factors. 
+This project focuses on identifying key variables correlating with heart disease using logistic regression. We analyzed the UCI Heart Disease Dataset, applying logistic regression, KNN, and Naive Bayes models in R to pinpoint crucial health factors. 
 
 ## Key Findings
 - **Statistical Significance**: Using logistic regression, we identified four critical health variables significantly associated with heart disease: gender, exercise-induced chest pain, ST depression, and asymptomatic chest pain.
@@ -22,7 +22,6 @@ This project, conducted as part of CIS 3920, focuses on identifying key variable
 - **KNN and Naive Bayes**: Applied for comparative analysis to assess model performance and robustness.
 
 ## Implications
-The study offers actionable insights for public health initiatives, especially in designing campaigns focusing on the identified significant health variables.
+The study offers actionable insights for public health initiatives by allowing them to design marketing campaigns focused on population segments more likely to develop heart disease. 
 
 
-**Keywords**: Heart Disease, Logistic Regression, Data Analysis, Public Health, R Programming
